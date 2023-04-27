@@ -13,3 +13,4 @@ spring:
       ddl-auto: update
   application:
     name: ORDER-SERVICE
+  app-details: pqr
